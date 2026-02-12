@@ -18,3 +18,4 @@ values, keys = np.unique(grocery_list, return_counts=True)
 item_dict = {values[i]: keys[i] for i in range(len(values))}
 for item in item_dict:
     print(item_dict[item], item)
+
