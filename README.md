@@ -1,14 +1,12 @@
 GROCERY LIST PROJECT
 
-## A simple command-line  utility that takes a list of grocery items, counts the frequency of each item, and outputs a sorted summary. This tool uses NumPy for efficient data processing.
-
-## Installation:
-## Ensure you have NumPy installed:
+##A simple command-line  utility that takes a list of grocery items, counts the frequency of each item, and outputs a sorted summary. This tool uses NumPy for efficient data processing.
+##Installation:
+Ensure you have NumPy installed:
 To run test on project.py,and to ensure that the application functions as intended execute the following command:
 ```bash
 pip install numpy
-
-## Usage:
+## Usage
 Run the script and type your items. Press Enter after each one.
 
 ```bash
